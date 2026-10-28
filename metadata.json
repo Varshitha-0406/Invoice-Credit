@@ -1,0 +1,7 @@
+{
+  "name": "Invoice Credit-Note Matching Desk (SOA-S08-T02)",
+  "description": "Enterprise SOA microservices finance desk for invoice credit-note matching, balance capping, Kafka event choreography, Eureka discovery, Spring Cloud Gateway, and JPA stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
